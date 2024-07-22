@@ -191,11 +191,3 @@ Contributions are welcome! Feel free to fork this repository and submit pull req
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
-
-## Acknowledgements
-
-Thanks to the developers of SWI-Prolog and the creators of the Prolog language for making this project possible.
-
----
-
-This README provides a detailed and technical overview of the Prolog medical diagnosis system, including setup instructions, an explanation of the codebase, and guidelines for contributing.
