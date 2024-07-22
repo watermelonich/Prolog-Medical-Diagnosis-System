@@ -1,0 +1,9 @@
+disease,advice
+cold,"1: Tylenol/tab; 2: Panadol/tab; 3: Nasal spray; Please wear warm clothes."
+flu,"1: Tamiflu/tab; 2: Panadol/tab; 3: Zanamivir/tab; Please take a warm bath and do salt gargling."
+typhoid,"1: Chloramphenicol/tab; 2: Amoxicillin/tab; 3: Ciprofloxacin/tab; 4: Azithromycin/tab; Please do complete bed rest and take a soft diet."
+measles,"1: Tylenol/tab; 2: Aleve/tab; 3: Advil/tab; 4: Vitamin A; Please get rest and use more liquids."
+malaria,"1: Aralen/tab; 2: Qualaquin/tab; 3: Plaquenil/tab; 4: Mefloquine; Please do not sleep in open air and cover your full skin."
+covid19,"1: Paracetamol/tab; 2: Ibuprofen/tab; Please isolate yourself and stay hydrated."
+dengue,"1: Acetaminophen/tab; Avoid aspirin and NSAIDs. Drink plenty of fluids and get rest."
+chickenpox,"1: Calamine lotion; 2: Antihistamines; Drink plenty of fluids and get rest."
